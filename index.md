@@ -56,7 +56,7 @@ title:
         </li>
     </ul>
      <p style="font-family: Arial, sans-serif;" >To schedule a free consultation or book your first session, please write to </p>
-<p><a href="mailto:contact@limitlesstutoring.com">contact@limitlesstutoring.com</a></p>
+<p><a href="mailto:songyuye29@gmail.com">songyuye29@gmail.com</a></p>
 </section>
 
 <section style="text-align: center; padding: 10px; background: #333; color: white;font-family: Arial, sans-serif;">
