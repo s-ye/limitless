@@ -20,7 +20,7 @@ title:
                 </p>
         </div>
         <div style="flex: 1; text-align: center;">
-                <img src="/me.jpeg" alt="Songyu Ye" style="max-width: 100%; height: auto; margin-left: 20px;">
+                <img src="assets/img/me.jpeg" alt="Songyu Ye" style="max-width: 100%; height: auto; margin-left: 20px;">
         </div>
     </div>
 </section>
